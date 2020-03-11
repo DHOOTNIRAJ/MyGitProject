@@ -1,8 +1,8 @@
 class myClass{
 
-main(){
+public static void main(String args[]){
 
-ssyout("hello");
+System.out.println("hello");
 
 }
 }
